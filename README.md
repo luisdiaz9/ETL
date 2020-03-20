@@ -17,10 +17,10 @@ The outcome is shown in screenshots for reference purpose of the public.<br>
 # ETL
 The APIs from Kaggle and Banxico download the performance of the bitcoin and US dollar.<br>
 The performance of bitcoin has been tracked to show its high variability, however, the US dollar was set as a standard with a much more stable growth over time.<br>
-Having considered bitcoin as a currency, it's behavior resembles more like shares from a techinological and foreign company than a commercial paper from a well established government.<br>
+Having considered bitcoin as a currency, it's behavior resembles more like shares from a technological and foreign company than a commercial paper from a well established government.<br>
 In such as case, the ability of bitcoin to buy products from certain retailers must be seen as a credit note or a voucher issued by the provider instead a legitimate currency.<br>
 The US dollar is supported by assets, such as real state property and its gross domestic product. <br>
-On the other hand, bitcoin relies exclusively on 'digital assets' whose value is determined subjectively and commissions are only worth how popular is this 'investment' in the market.<br>
+On the other hand, bitcoin relies exclusively on 'digital assets' whose value is determined subjectively and commissions are only worth how popular this 'investment' in the market is.<br>
 
 
 
